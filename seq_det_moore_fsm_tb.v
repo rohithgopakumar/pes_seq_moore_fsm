@@ -2,7 +2,7 @@
 // fpga4student.com: FPGA projects, Verilog projects, VHDL projects
 // Verilog project: Verilog code for Sequence Detector using Moore FSM
 // Verilog Testbench for Sequence Detector using Moore FSM 
-module tb_Sequence_Detector_Moore_FSM_Verilog;
+module seq_det_moore_fsm_tb;
 
  // Inputs
  reg sequence_in;
