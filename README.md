@@ -47,3 +47,24 @@ Before using this code example, make sure you have the following prerequisites:
 
    ```bash
    python moore_fsm_sequence_detection.py
+   ```
+
+
+# SYNTHESIS TO GDS FLOW:
+      step1:
+      'iverilog Sequence_Detector_MOORE.v tb_Sequence_Detector_Moore_FSM.v -o output_fsm.out'
+      
+![Screenshot from 2023-10-15 15-55-30](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/84c1b337-621c-41ca-9cec-633f24ecde0d)
+
+
+![Screenshot from 2023-10-15 15-59-05](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/8038c897-29a6-4eba-9a90-aa3be1f3e385)
+
+
+   ![Screenshot from 2023-10-15 16-01-45](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/a0c746d5-1d51-4567-b35a-e5fce4dc2d96)
+
+![Screenshot from 2023-10-15 15-10-16](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/2be2da4c-5f4f-4455-93cb-40cf751256e7)
+
+
+![Screenshot from 2023-10-15 15-10-36](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/b8c668fd-8841-4948-a83e-0007719ecba9)
+
+
