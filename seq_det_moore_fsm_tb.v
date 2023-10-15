@@ -13,7 +13,7 @@ module seq_det_moore_fsm_tb;
  wire detector_out;
 
  // Instantiate the Sequence Detector using Moore FSM
- Sseq_det_moore_fsm uut (
+ seq_det_moore_fsm uut (
   .sequence_in(sequence_in), 
   .clock(clock), 
   .reset(reset), 
