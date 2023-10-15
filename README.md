@@ -52,7 +52,9 @@ Before using this code example, make sure you have the following prerequisites:
 
 # SYNTHESIS TO GDS FLOW:
       step1:
-      'iverilog Sequence_Detector_MOORE.v tb_Sequence_Detector_Moore_FSM.v -o output_fsm.out'
+      iverilog Sequence_Detector_MOORE.v tb_Sequence_Detector_Moore_FSM.v -o output_fsm.out
+      step2:
+      ./output_fsm.out
       
 ![Screenshot from 2023-10-15 15-55-30](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/84c1b337-621c-41ca-9cec-633f24ecde0d)
 
