@@ -1,7 +1,7 @@
 // fpga4student.com: FPGA projects, Verilog projects, VHDL projects
 // Verilog project: Verilog code for Sequence Detector using Moore FSM
 // The sequence being detected is "1011" or One Zero One One 
-module Sequence_Detector_MOORE_Verilog(sequence_in,clock,reset,detector_out);
+module seq_det_moore_fsm(sequence_in,clock,reset,detector_out);
 input clock; 			// clock signal
 input reset; 			// reset input
 input sequence_in; 		// binary input
