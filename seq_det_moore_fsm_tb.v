@@ -21,7 +21,7 @@ module seq_det_moore_fsm_tb;
  );
  initial begin
  $dumpfile("seq_det.vcd");
- $dumpvars(0, tb_Sequence_Detector_Moore_FSM_Verilog);
+ $dumpvars(0, seq_det_moore_fsm_tb);
  clock = 0;
  forever #5 clock = ~clock;
 
