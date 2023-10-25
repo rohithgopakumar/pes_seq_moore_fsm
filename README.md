@@ -72,4 +72,4 @@ The Moore FSM implementation consists of the following components:
 
 ![Screenshot from 2023-10-15 15-10-36](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/b8c668fd-8841-4948-a83e-0007719ecba9)
 
-
+# PHYSICAL DESIGN 
