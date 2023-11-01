@@ -73,3 +73,68 @@ The Moore FSM implementation consists of the following components:
 ![Screenshot from 2023-10-15 15-10-36](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/b8c668fd-8841-4948-a83e-0007719ecba9)
 
 # PHYSICAL DESIGN 
+
+
+# Getting Started With OpenLane:
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+
+## Introduction
+
+Provide a brief introduction to your project here. Explain what it does and why it's useful.
+
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- **Linux Operating System**: Your project works on Linux. You can specify the required distribution if necessary.
+
+- **Docker**: Docker is used for managing dependencies and isolating the environment.
+
+Replace with additional prerequisites, if any.
+
+### Installation
+
+Use this section to describe how to install your project. You can provide step-by-step instructions or scripts here. For example:
+
+1. Clone this repository to your local machine:
+
+   ```bash
+   git clone https://github.com/yourusername/your-project.git
+   cd your-project
+   ```
+
+2. Set up the environment by pulling the Docker container:
+   ```bash
+   make build
+   ```
+
+3. Build the OpenLane tools:
+
+   ```bash
+   make openlane
+   ```
+
+4. Source the environment:
+
+   ```bash
+   source sourceme.sh
+   ```
+
+## Usage
+
+To run OpenLane, navigate to your project directory and use the provided run script:
+
+   ```bash
+      cd path/to/your/project
+      run_designs
+   ```
+You can find more detailed usage instructions in the OpenLane documentation.
