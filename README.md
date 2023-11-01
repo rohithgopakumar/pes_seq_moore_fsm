@@ -186,7 +186,7 @@ Utilize Electronic Design Automation (EDA) tools for floor planning tasks. These
 
 1) [Preparation of the Design](#Preparation-of-the-Design)
 2) [Running synthesis](#Running-synthesis)
-  - [Prerequisites](#prerequisites)
+3) [Running floorplan](#Running-floorplan)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Directory Structure](#directory-structure)
@@ -231,4 +231,6 @@ this will run the synthesis
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/b299d78c-8b82-469d-b670-cbd8a380f4ba)
 
 If we get this prompt then we can conclude that the synthesis step has been completed 
+
+
 
