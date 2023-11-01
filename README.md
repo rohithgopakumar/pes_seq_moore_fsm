@@ -233,4 +233,4 @@ this will run the synthesis
 If we get this prompt then we can conclude that the synthesis step has been completed 
 
 
-
+### 3)Running floorplan
