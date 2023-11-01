@@ -225,6 +225,8 @@ run_synthesis
 
 this will run the synthesis 
 
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/5d014a06-9c44-4dad-9538-fa615bbf7f62)
+
 
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/b299d78c-8b82-469d-b670-cbd8a380f4ba)
 
