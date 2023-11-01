@@ -44,6 +44,15 @@ The Moore FSM implementation consists of the following components:
 
 3. main.py: This is the entry point for the program. It allows you to specify the target sequence and run the FSM simulation.
 
+# COURSE CONTENT
+
+</details>
+<details>
+<summary> SYNTHESIS TO GDS FLOW </summary>
+<br>
+
+
+
 # SYNTHESIS TO GDS FLOW:
       step1:
       iverilog Sequence_Detector_MOORE.v tb_Sequence_Detector_Moore_FSM.v -o output_fsm.out
@@ -72,6 +81,11 @@ The Moore FSM implementation consists of the following components:
 
 ![Screenshot from 2023-10-15 15-10-36](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/b8c668fd-8841-4948-a83e-0007719ecba9)
 
+
+</details>
+<details>
+<summary> PHYSICAL DESIGN </summary>
+<br>
 # PHYSICAL DESIGN 
 
 
@@ -79,19 +93,18 @@ The Moore FSM implementation consists of the following components:
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
+1) [Introduction](#introduction)
+2) [Prerequisites](#prerequisites)
+3) [Installation](#installation)
+4) [Usage](#usage)
 
-## Introduction
+## 1)Introduction
 
 Provide a brief introduction to your project here. Explain what it does and why it's useful.
 
-## Getting Started
 
-### Prerequisites
+
+### 2)Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
@@ -101,7 +114,7 @@ Before you begin, ensure you have met the following requirements:
 
 Replace with additional prerequisites, if any.
 
-### Installation
+### 3)Installation
 
 Use this section to describe how to install your project. You can provide step-by-step instructions or scripts here. For example:
 
@@ -129,7 +142,7 @@ Use this section to describe how to install your project. You can provide step-b
    source sourceme.sh
    ```
 
-## Usage
+## 4)Usage
 
 To run OpenLane, navigate to your project directory and use the provided run script:
 
