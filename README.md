@@ -151,3 +151,82 @@ To run OpenLane, navigate to your project directory and use the provided run scr
       run_designs
    ```
 You can find more detailed usage instructions in the OpenLane documentation.
+
+# Key Considerations
+
+### 1. Functional Block Placement
+
+Deciding where to place different functional blocks is crucial. Blocks that frequently exchange data should be positioned close to each other to minimize signal delays, while those with less interaction can be placed farther apart.
+
+### 2. Power Distribution
+
+Efficient power distribution networks are vital to ensure that all components receive a stable power supply. Careful consideration of power grid topology, voltage domains, and decoupling capacitors is necessary.
+
+### 3. Signal Routing
+
+Planning the routing of signals between blocks and components is critical for minimizing signal congestion, reducing wirelength, and maintaining signal integrity.
+
+### 4. Clock Distribution
+
+Designing a robust clock distribution network is essential for synchronizing operations across the chip. This involves determining clock sources, clock domains, and minimizing clock skew.
+
+### 5. Thermal Management
+
+Heat dissipation is a significant concern in chip design. Proper floor planning should include provisions for thermal management, such as placing power-hungry blocks away from critical areas and incorporating heat sinks.
+
+### 6. Manufacturing Constraints
+
+Compliance with manufacturing constraints, such as minimum feature size and design rule checks (DRC), is crucial to ensure that the chip can be fabricated successfully.
+
+### 7. EDA Tools
+
+Utilize Electronic Design Automation (EDA) tools for floor planning tasks. These tools assist in placement, routing, and verification processes, streamlining the design workflow.
+
+## Table of Contents
+
+1) [Preparation of the Design](#Preparation-of-the-Design)
+2) [Running synthesis](#Running-synthesis)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Directory Structure](#directory-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+
+
+
+
+### 1) Preparation of the Design:
+To get started with the Design preperation, follow these steps:
+
+```bash
+docker
+./flow.tcl -interactive
+require package openlane
+prep -design <design_name>
+```
+
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/032c2e25-13c5-4568-af36-aeb4e7e3c356)
+
+
+we will get a meesage that says preperation complete which means the design file is ready to undergo synthesis.
+
+
+
+
+### 2)Running synthesis:
+
+In OpneLane use this commmand to run synthesis:
+```bash
+run_synthesis
+```
+
+this will run the synthesis 
+
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/b299d78c-8b82-469d-b670-cbd8a380f4ba)
+
+If we get this prompt then we can conclude that the synthesis step has been completed 
+
