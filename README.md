@@ -235,9 +235,16 @@ If we get this prompt then we can conclude that the synthesis step has been comp
 
 ### 3)Running floorplan:
 
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/1adc80ec-383b-4163-aeb5-509d37ee111e)
 
 
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/75d7274e-3797-40d7-85e9-6265e523de07)
 
+we can use the magic command to view the layout design 
+```bash
+magic -T /home/rohithgopakumar/Downloads/sky130A.tech lef read ../../tmp/merged.nom.lef def read seq_det_moore_fsm.def &
+```
+this will use the magic tool to view the layout
 
 ### 4)Running placement:
 
