@@ -250,15 +250,18 @@ magic -T /home/rohithgopakumar/Downloads/sky130A.tech lef read ../../tmp/merged.
 this will use the magic tool to view the layout
 
 ### 4)Running placement and CTS:
-
-
+use this commands to run placement and cts:
+```bash
+run_placement
+run_cts
+```
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/f4919e3e-7894-4c05-ab33-ad065e6c4319)
 
 
-
-
-
-
 ### 5)Running routing:
+use this command to run routing:
+```bash
+run_routing
+```
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/d716ed6e-0121-4d5d-a810-21b3fbdc4c30)
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/c8d97693-4cb1-41d5-85f5-bde9325756d7)
