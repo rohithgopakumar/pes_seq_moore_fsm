@@ -234,7 +234,10 @@ If we get this prompt then we can conclude that the synthesis step has been comp
 
 
 ### 3)Running floorplan:
-
+use command 
+```bash
+run_floorplan
+```
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/1adc80ec-383b-4163-aeb5-509d37ee111e)
 
 
