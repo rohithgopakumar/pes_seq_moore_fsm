@@ -246,12 +246,16 @@ magic -T /home/rohithgopakumar/Downloads/sky130A.tech lef read ../../tmp/merged.
 ```
 this will use the magic tool to view the layout
 
-### 4)Running placement:
+### 4)Running placement and CTS:
+
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/f4919e3e-7894-4c05-ab33-ad065e6c4319)
 
 
 
-### 5)Running CTS:
 
 
 
-### 6)Running routing:
+### 5)Running routing:
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/d716ed6e-0121-4d5d-a810-21b3fbdc4c30)
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/c8d97693-4cb1-41d5-85f5-bde9325756d7)
