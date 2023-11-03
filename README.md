@@ -233,4 +233,18 @@ this will run the synthesis
 If we get this prompt then we can conclude that the synthesis step has been completed 
 
 
-### 3)Running floorplan
+### 3)Running floorplan:
+
+
+
+
+
+### 4)Running placement:
+
+
+
+### 5)Running CTS:
+
+
+
+### 6)Running routing:
