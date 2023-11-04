@@ -185,13 +185,13 @@ Utilize Electronic Design Automation (EDA) tools for floor planning tasks. These
 1) [Preparation of the Design](#Preparation-of-the-Design)
 2) [Running synthesis](#Running-synthesis)
 3) [Running floorplan](#Running-floorplan)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
-
+4) [Running placement and cts](#Running-placement-and-cts)
+5) [Running routing](#Running-routing)
+6) [Running magic](#Running-magic)
+7) [Running magic spice export](#Running-magic-spice-export)
+8) [Running magic drc](#Running-magic-drc)
+9) [Running lvs](#Running-lvs)
+10)[Running antenna check](Running-antenna-check)
 
 
 
