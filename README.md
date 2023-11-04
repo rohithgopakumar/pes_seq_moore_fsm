@@ -84,7 +84,7 @@ The Moore FSM implementation consists of the following components:
 
 </details>
 <details>
-<summary> PART 2: PHYSICAL DESIGN </summary>
+<summary>PART 2: PHYSICAL DESIGN </summary>
 <br>
 
 # Getting Started With OpenLane:
