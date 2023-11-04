@@ -255,9 +255,17 @@ run_cts
 ```
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/f4919e3e-7894-4c05-ab33-ad065e6c4319)
 
-![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/5053d807-007c-4a67-a22b-a5ab7fff2cd7)
 
-![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/0918b9fc-8ec1-46e6-9585-7304ebdac06b)
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/f8d656f3-1153-4de4-a11e-8dba83b14d25)
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/33ebd70c-2002-4043-84a7-188f3df01359)
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/a6d17d87-44e3-4c4a-84ff-105e1c3a9f9d)
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/47d3fc88-8535-403e-8000-7c0b2285b5a6)
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/18d07585-90f3-478d-ae64-684a10855c72)
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/dd421e00-d715-41aa-9cec-1864607d5fe7)
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/2056455d-8083-414b-81c0-14d2b516de58)
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/2e837d3c-546c-44a0-b723-0399bcd69feb)
 
 ### 5)Running routing:
 use this command to run routing:
@@ -267,7 +275,7 @@ run_routing
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/d716ed6e-0121-4d5d-a810-21b3fbdc4c30)
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/c8d97693-4cb1-41d5-85f5-bde9325756d7)
 
-
+)
 
 we can see here the area of the die is a bit too much so we reduce it one by one 
 
