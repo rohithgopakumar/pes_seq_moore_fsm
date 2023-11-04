@@ -191,7 +191,7 @@ Utilize Electronic Design Automation (EDA) tools for floor planning tasks. These
 7) [Running magic spice export](#Running-magic-spice-export)
 8) [Running magic drc](#Running-magic-drc)
 9) [Running lvs](#Running-lvs)
-10) 10)[Running antenna check](Running-antenna-check)
+10)[Running antenna check](Running-antenna-check)
 
 
 
