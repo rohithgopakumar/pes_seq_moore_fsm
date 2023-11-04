@@ -48,7 +48,7 @@ The Moore FSM implementation consists of the following components:
 
 </details>
 <details>
-<summary>PART1: SYNTHESIS TO GDS FLOW </summary>
+<summary>PART 1: SYNTHESIS TO GDS FLOW </summary>
 <br>
 
 
