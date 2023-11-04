@@ -355,11 +355,12 @@ run_antenna_check
 
 ### FINAL DESIGN AND STATISTICS: 
 ##DESIGN:
-![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/afc9c09e-2d3a-418d-9a55-e671957139d5)
 
-![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/cc0f0a28-2820-4b05-bb4c-6640c43af581)
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/7dd61a08-c00d-4a43-baa4-6239d7c080ae)
 
-![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/44133d2c-e192-46dd-bc60-43e0548eb890)
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/85eb2585-9dfa-44e0-b8da-a67530c66258)
+
+![Uploading image.png…]()
 
 #STATISTICS:
 
