@@ -265,3 +265,26 @@ run_routing
 ```
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/d716ed6e-0121-4d5d-a810-21b3fbdc4c30)
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/c8d97693-4cb1-41d5-85f5-bde9325756d7)
+
+
+
+we can see here the area of the die is a bit too much so we reduce it one by one 
+
+
+i) case 1: die area=[0 0 100 100]
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/76872250-88cd-4ad5-941b-f542088141aa)
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/9e0a04cd-5dff-4636-aac2-6295d5a06550)
+
+ii case 2: die area=[0 0 75 75]
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/43b8a544-e22d-455d-addb-c9d49f93fb6d)
+
+
+iii) case 3: die area=[0 0 60 60]
+
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/d2a1fc8a-7adb-4d21-9f4e-31f6e17b6553)
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/8f5a0764-0c07-4062-b4f4-27c198a99273)
