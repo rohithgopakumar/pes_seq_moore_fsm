@@ -48,7 +48,7 @@ The Moore FSM implementation consists of the following components:
 
 </details>
 <details>
-<summary> SYNTHESIS TO GDS FLOW </summary>
+<summary>PART1: SYNTHESIS TO GDS FLOW </summary>
 <br>
 
 
@@ -84,10 +84,8 @@ The Moore FSM implementation consists of the following components:
 
 </details>
 <details>
-<summary> PHYSICAL DESIGN </summary>
+<summary> PART 2: PHYSICAL DESIGN </summary>
 <br>
-# PHYSICAL DESIGN 
-
 
 # Getting Started With OpenLane:
 
