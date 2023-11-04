@@ -360,7 +360,8 @@ run_antenna_check
 
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/85eb2585-9dfa-44e0-b8da-a67530c66258)
 
-![Uploading image.png…]()
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/639d56b5-ba7a-4d26-b8c8-f81b30edf181)
+
 
 #STATISTICS:
 
