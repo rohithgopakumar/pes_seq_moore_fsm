@@ -288,3 +288,68 @@ iii) case 3: die area=[0 0 60 60]
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/d2a1fc8a-7adb-4d21-9f4e-31f6e17b6553)
 
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/8f5a0764-0c07-4062-b4f4-27c198a99273)
+
+
+### 6)Run_magic
+use the command in openlane
+```bash
+run_magic
+```
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/12ddb613-0f96-44a2-b5a4-1b210c8ccd13)
+
+
+### 7)Run_magic_spice_export
+
+use the command in openlane
+```bash
+run_magic_spice_export
+```
+
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/31770b9d-e112-4942-9e5b-eb7cb4a12fde)
+
+
+### 8)run_magic_drc
+
+
+use the command in openlane 
+
+```bash
+run_magic_drc
+```
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/07d4f474-f81d-453b-b255-c1dc0dc6114f)
+
+
+### 9)run_lvs
+
+use the command in openlane 
+
+```bash
+run_lvs
+```
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/e90f05b1-9145-42ef-acb9-c8360658dccf)
+
+
+
+### 10)run_antenna_check
+
+use the command in openlane 
+
+```bash
+run_antenna_check
+```
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/3ec9cb63-89ed-4f28-b07a-02206a7ce79b)
+
+
+
+
+### FINAL DESIGN AND STATISTICS: 
+##DESIGN:
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/afc9c09e-2d3a-418d-9a55-e671957139d5)
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/cc0f0a28-2820-4b05-bb4c-6640c43af581)
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/44133d2c-e192-46dd-bc60-43e0548eb890)
+
+#STASTICS:
