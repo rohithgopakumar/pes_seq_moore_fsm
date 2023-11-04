@@ -255,6 +255,9 @@ run_cts
 ```
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/f4919e3e-7894-4c05-ab33-ad065e6c4319)
 
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/5053d807-007c-4a67-a22b-a5ab7fff2cd7)
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/0918b9fc-8ec1-46e6-9585-7304ebdac06b)
 
 ### 5)Running routing:
 use this command to run routing:
@@ -352,8 +355,11 @@ run_antenna_check
 
 #STATISTICS:
 
-![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/9ee17f2e-3893-45b7-a793-c1bfe61e2928)
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/260308b0-5522-4ec1-8acf-b35becf3d9e7)
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/b3f74f67-8847-4fe1-9787-0dbfce0c00af)
 
 
-![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/1b0376f0-0868-4e50-a55f-82a072ecdc0f)
+
+
 
