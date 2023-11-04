@@ -352,4 +352,10 @@ run_antenna_check
 
 ![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/44133d2c-e192-46dd-bc60-43e0548eb890)
 
-#STASTICS:
+#STATISTICS:
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/9ee17f2e-3893-45b7-a793-c1bfe61e2928)
+
+
+![image](https://github.com/rohithgopakumar/pes_seq_moore_fsm/assets/131611312/1b0376f0-0868-4e50-a55f-82a072ecdc0f)
+
