@@ -12,9 +12,10 @@ In this example, we will use a simple FSM to detect the sequence "1010" in a giv
 
 Before using this code example, make sure you have the following prerequisites:
 
-- A basic understanding of Finite State Machines (FSMs) and their operation.
-- Python installed on your system.
-- A text editor or integrated development environment (IDE) for running Python scripts.
+- Matlab version:R2022b
+- OS:Ubuntu 20.04.3 LTS
+- Xilinx ISE 14.7
+  
 
 ## Usage
 
